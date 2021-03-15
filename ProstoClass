@@ -21,7 +21,7 @@ public:
     {
         for (int i = 0; i < size; i++)
         {
-            arr[i] = (rand() % 20) - 10;
+            arr[i] = (rand() % 30) - 5;
         }
     }
     
